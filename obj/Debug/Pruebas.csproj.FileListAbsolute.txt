@@ -1,0 +1,6 @@
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.exe.config
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.exe
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\bin\Debug\Pruebas.pdb
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.exe
+c:\users\raulb\onedrive\documentos\visual studio 2015\Projects\Pruebas\Pruebas\obj\Debug\Pruebas.pdb
